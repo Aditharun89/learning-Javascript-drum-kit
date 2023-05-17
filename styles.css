@@ -29,3 +29,14 @@ text-shadow: 0 0 .5rem black;
 kbd {display: block;
     font-size: 4rem;
 }
+
+.playing {transform: scale(1.1);
+    border-color: #9B26B6;
+    box-shadow: 0 0 1rem #9B26B6;
+}
+
+.sound {font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    color: white;
+}
